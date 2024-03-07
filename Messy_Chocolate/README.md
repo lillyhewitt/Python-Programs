@@ -44,14 +44,15 @@ def main():
 
 main()
 
-3 Temperature
+3. Temperature
 Write a program that converts a temperature from Celsius to Fahrenheit.
 It should (1) prompt the user for input, (2) read a floating point value from
 the keyboard, and (3) calculate the result.
 Here is the formula. Be careful not to use integer division!
 F = C × 9
 5 + 32
-4 Seconds to Hours
+
+4.  Seconds to Hours
 Write a program that converts a total number of seconds to hours, minutes,
 and seconds. It should (1) prompt the user for input, (2) read an integer from
 the keyboard, (3) and calculate the result. For example, "5000 seconds = 1 hours, 23 minutes, and 20 seconds".

@@ -66,3 +66,5 @@ def drawNgonSpiral(myTurtle, numSides, sideLength, numShapes):
         myTurtle.left(angle)
       
 drawNgonSpiral(bot, 6, 100, 35)
+
+# https://projects.raspberrypi.org/en/projects/turtle-snowflakes/6

@@ -66,38 +66,3 @@ toLowercase and slicing are needed to write the program.
 4. https://docs.python.org/3/library/string.html has everything you
 would need to know about String functions. Your book will help too.
 5. String concatenation, or “adding” two Strings with the + sign will help.
-
-Extra Credit: Reverse (3 points)
-Write and call an additional function called reverse. reverse which takes in
-a String and returns the mirror-image of the String, so the first letter is now
-the last, the second is now second to last, and so on. If you do this, the above
-input should look like:
-letter
-etterlay
-rettel
-foo
-oofay
-oof
-bar
-arbay
-rab
-spam
-amspay
-maps
-eggs
-ggseway
-sgge
-Andrew
-ndrewaway
-werdna
-Alakazam
-lakazamaway
-mazakala
-Charizard
-arizardchay
-drazirahc
-done
-
-Extra Credit: ROT13 (7 points)
-Write an additional function that encrypts the input using ROT13. Details
-here: http://en.wikipedia.org/wiki/ROT13
